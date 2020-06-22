@@ -42,6 +42,9 @@ DOMAIN-KEYWORD,whatsapp
 # sex.com
 DOMAIN-SUFFIX,sex.com
 
+# sankakucomplex
+DOMAIN-SUFFIX,sankakucomplex.com
+
 # GFW list
 DOMAIN-SUFFIX,030buy.com
 DOMAIN-SUFFIX,0rz.tw
