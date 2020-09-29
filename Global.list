@@ -6,7 +6,9 @@ DOMAIN-SUFFIX,bit.no.com
 DOMAIN-SUFFIX,btlibrary.me
 DOMAIN-SUFFIX,cccat.io
 DOMAIN-SUFFIX,cloudcone.com
+DOMAIN-SUFFIX,dubox.com
 DOMAIN-SUFFIX,gameloft.com
+DOMAIN-SUFFIX,garena.com
 DOMAIN-SUFFIX,inoreader.com
 DOMAIN-SUFFIX,ip138.com
 DOMAIN-SUFFIX,ping.pe
@@ -17,6 +19,16 @@ DOMAIN-SUFFIX,twdvd.com
 DOMAIN-SUFFIX,unsplash.com
 DOMAIN-SUFFIX,xn--i2ru8q2qg.com
 DOMAIN-SUFFIX,yunpanjingling.com
+
+# 国外域名
+DOMAIN-SUFFIX,eu
+DOMAIN-SUFFIX,hk
+DOMAIN-SUFFIX,jp
+DOMAIN-SUFFIX,kr
+DOMAIN-SUFFIX,sg
+DOMAIN-SUFFIX,tw
+DOMAIN-SUFFIX,uk
+DOMAIN-SUFFIX,us
 
 # 国外域名关键字
 DOMAIN-KEYWORD,1e100
@@ -38,12 +50,7 @@ DOMAIN-KEYWORD,spotify
 DOMAIN-KEYWORD,telegram
 DOMAIN-KEYWORD,twitter
 DOMAIN-KEYWORD,whatsapp
-
-# sex.com
-DOMAIN-SUFFIX,sex.com
-
-# sankakucomplex
-DOMAIN-SUFFIX,sankakucomplex.com
+DOMAIN-KEYWORD,youtube
 
 # GFW list
 DOMAIN-SUFFIX,030buy.com
@@ -2941,7 +2948,6 @@ DOMAIN-SUFFIX,lvv2.com
 DOMAIN-SUFFIX,lyfhk.net
 DOMAIN-SUFFIX,lzmtnews.org
 DOMAIN-SUFFIX,m-sport.co.uk
-DOMAIN-SUFFIX,m-team.cc
 DOMAIN-SUFFIX,m.me
 DOMAIN-SUFFIX,macgamestore.com
 DOMAIN-SUFFIX,macrovpn.com
@@ -3287,6 +3293,7 @@ DOMAIN-SUFFIX,netbig.com
 DOMAIN-SUFFIX,netbirds.com
 DOMAIN-SUFFIX,netcolony.com
 DOMAIN-SUFFIX,netfirms.com
+DOMAIN-SUFFIX,netflix.com
 DOMAIN-SUFFIX,netme.cc
 DOMAIN-SUFFIX,netsneak.com
 DOMAIN-SUFFIX,network54.com
@@ -5568,10 +5575,16 @@ DOMAIN-SUFFIX,spring.net
 DOMAIN-SUFFIX,stackoverflow.com
 
 # Discord
+DOMAIN-SUFFIX,discord.co
+DOMAIN-SUFFIX,discord.com
 DOMAIN-SUFFIX,discord.gg
 DOMAIN-SUFFIX,discord.media
 DOMAIN-SUFFIX,discordapp.com
 DOMAIN-SUFFIX,discordapp.net
+
+# Dubox
+DOMAIN-SUFFIX,dubox.com
+DOMAIN-SUFFIX,duboxcdn.com
 
 # Facebook
 DOMAIN-SUFFIX,facebook.com
@@ -5680,6 +5693,10 @@ DOMAIN-SUFFIX,bongacams.com
 DOMAIN-SUFFIX,chaturbate.com
 DOMAIN-SUFFIX,dditscdn.com
 DOMAIN-SUFFIX,livejasmin.com
+DOMAIN-SUFFIX,phncdn.com
+DOMAIN-SUFFIX,phprcdn.com
+DOMAIN-SUFFIX,pornhub.com
+DOMAIN-SUFFIX,pornhubpremium.com
 DOMAIN-SUFFIX,rdtcdn.com
 DOMAIN-SUFFIX,redtube.com
 DOMAIN-SUFFIX,sb-cd.com
@@ -5699,6 +5716,7 @@ DOMAIN-SUFFIX,pximg.net
 # Steam
 DOMAIN-SUFFIX,fanatical.com
 DOMAIN-SUFFIX,humblebundle.com
+DOMAIN-SUFFIX,steam-chat.com
 DOMAIN-SUFFIX,steamcommunity.com
 DOMAIN-SUFFIX,steampowered.com
 DOMAIN-SUFFIX,steamstatic.com
@@ -5745,6 +5763,20 @@ IP-CIDR,184.173.128.0/17,no-resolve
 IP-CIDR,158.85.224.160/27,no-resolve
 IP-CIDR,75.126.150.0/16,no-resolve
 IP-CIDR,69.171.235.0/16,no-resolve
+
+# Wikipedia 维基相关域名
+DOMAIN-SUFFIX,mediawiki.org
+DOMAIN-SUFFIX,wikibooks.org
+DOMAIN-SUFFIX,wikidata.org
+DOMAIN-SUFFIX,wikileaks.org
+DOMAIN-SUFFIX,wikimedia.org
+DOMAIN-SUFFIX,wikinews.org
+DOMAIN-SUFFIX,wikipedia.org
+DOMAIN-SUFFIX,wikiquote.org
+DOMAIN-SUFFIX,wikisource.org
+DOMAIN-SUFFIX,wikiversity.org
+DOMAIN-SUFFIX,wikivoyage.org
+DOMAIN-SUFFIX,wiktionary.org
 
 #飞流直播
 DOMAIN-SUFFIX,neulion.com
