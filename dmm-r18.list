@@ -1,3 +1,6 @@
 # DMM-R18
 DOMAIN-SUFFIX,dmm.com
 DOMAIN-SUFFIX,dmm.co.jp
+
+# .jp suffix
+DOMAIN-SUFFIX,jp
