@@ -2,5 +2,11 @@
 DOMAIN-SUFFIX,dmm.com
 DOMAIN-SUFFIX,dmm.co.jp
 
+# yande.re
+DOMAIN-SUFFIX,yande.re
+
+# Gelbooru
+DOMAIN-SUFFIX,gelbooru.com
+
 # .jp suffix
 DOMAIN-SUFFIX,jp
