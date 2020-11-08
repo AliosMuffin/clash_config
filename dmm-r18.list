@@ -8,5 +8,9 @@ DOMAIN-SUFFIX,yande.re
 # Gelbooru
 DOMAIN-SUFFIX,gelbooru.com
 
+# pixiv
+DOMAIN-SUFFIX,pixiv.net
+DOMAIN-SUFFIX,pximg.net
+
 # .jp suffix
 DOMAIN-SUFFIX,jp
