@@ -12,8 +12,5 @@ DOMAIN-SUFFIX,gelbooru.com
 DOMAIN-SUFFIX,pixiv.net
 DOMAIN-SUFFIX,pximg.net
 
-# Exhentai
-DOMAIN-SUFFIX,exhentai.org
-
 # .jp suffix
 DOMAIN-SUFFIX,jp
