@@ -2,6 +2,9 @@
 DOMAIN-SUFFIX,dmm.com
 DOMAIN-SUFFIX,dmm.co.jp
 
+# Mgstage
+DOMAIN-SUFFIX,mgstage.com
+
 # yande.re
 DOMAIN-SUFFIX,yande.re
 
