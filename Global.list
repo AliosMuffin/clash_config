@@ -14,7 +14,6 @@ DOMAIN-SUFFIX,inoreader.com
 DOMAIN-SUFFIX,ip138.com
 DOMAIN-SUFFIX,linkedin.com
 DOMAIN-SUFFIX,myteamspeak.com
-DOMAIN-SUFFIX,notion.so
 DOMAIN-SUFFIX,ping.pe
 DOMAIN-SUFFIX,reddit.com
 DOMAIN-SUFFIX,teddysun.com
@@ -25,7 +24,6 @@ DOMAIN-SUFFIX,unsplash.com
 # 国外域名
 DOMAIN-SUFFIX,eu
 DOMAIN-SUFFIX,hk
-DOMAIN-SUFFIX,jp
 DOMAIN-SUFFIX,kr
 DOMAIN-SUFFIX,sg
 DOMAIN-SUFFIX,tw
@@ -1299,7 +1297,6 @@ DOMAIN-SUFFIX,dzze.com
 DOMAIN-SUFFIX,e-classical.com.tw
 DOMAIN-SUFFIX,e-gold.com
 DOMAIN-SUFFIX,e-hentai.org
-DOMAIN-SUFFIX,exhentai.org
 DOMAIN-SUFFIX,e-hentaidb.com
 DOMAIN-SUFFIX,e-info.org.tw
 DOMAIN-SUFFIX,e-traderland.net
