@@ -1,7 +1,9 @@
 # JavDB
-
 DOMAIN-SUFFIX,javdb.com
 DOMAIN-SUFFIX,jdbstatic.com
 
 # Sperm Mania
 DOMAIN-SUFFIX,spermmania.com
+
+# MissAV
+DOMAIN-KEYWORD,missav
